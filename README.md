@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- *Frontend:* React.js, HTML5, CSS3, JavaScript, Tailwind CSS
+- *Frontend:* React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 - *Backend:* Node.js, Express.js
 - *Database:* MongoDB, MySQL
 - *Tools & Platforms:* Git, GitHub, VS Code, Postman, Netlify, Vercel
