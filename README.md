@@ -1,4 +1,4 @@
- 👋 Hi, I'm Sakshi Sharma
+## 👋 Hi, I'm Sakshi Sharma
 
 ## 💻 Full Stack Developer | MERN Stack | Open Source Enthusiast
 
